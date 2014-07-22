@@ -38,3 +38,6 @@ Icon
 
 
 node_modules/
+.idea/workspace.xml
+dist/external.js
+dist/maxby.js

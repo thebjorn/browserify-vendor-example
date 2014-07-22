@@ -1,0 +1,28 @@
+{
+  "name": "max-by",
+  "version": "0.0.0",
+  "description": "multiple bundle test for browserify",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^4.2.3",
+    "es5-shim": "^4.0.0",
+    "gulp-browserify": "^0.5.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-rimraf": "^0.1.0",
+    "gulp-util": "^3.0.0",
+    "jquery": "^2.1.1",
+    "lodash": "^2.4.1",
+    "qunit": "^0.7.1",
+    "vinyl-source-stream": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bjorn Pettersen",
+  "license": "MIT"
+}
